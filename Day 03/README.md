@@ -59,4 +59,5 @@ VPC with servers in private subnets and NAT
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html
 
-image
+<img width="611" height="481" alt="image" src="https://github.com/user-attachments/assets/3464e864-2dfb-4dbe-adde-2f4609ca0288" />
+
